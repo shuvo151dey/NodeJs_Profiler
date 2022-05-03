@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_profiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/shuvo151dey/NodeJs_Profiler.git",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuvo151dey/NodeJs_Profiler/issues"
+  },
+  "homepage": "https://github.com/shuvo151dey/NodeJs_Profiler#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "mongo": "^0.1.0",
+    "nodemon": "^2.0.16",
+    "url": "^0.11.0",
+    "util": "^0.12.4"
+  }
+}
