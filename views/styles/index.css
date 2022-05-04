@@ -1,0 +1,15 @@
+body{
+    background-image: url('../assets/banner-bg.svg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.page_title{
+    color: white;
+}
+.page_title:first-child{
+    margin-top: 20vh;
+}
+.centr{
+    text-align: center;
+}

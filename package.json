@@ -14,6 +14,7 @@
   },
   "homepage": "https://github.com/shuvo151dey/NodeJs_Profiler#readme",
   "dependencies": {
+    "ejs": "^3.1.7",
     "express": "^4.18.1",
     "fs": "^0.0.1-security",
     "http": "^0.0.1-security",
